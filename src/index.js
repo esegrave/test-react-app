@@ -4,9 +4,11 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+var title = document.getElementById('title-tag').textContent;
+
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <App title={title}/>
   </React.StrictMode>,
   document.getElementById('root')
 );
