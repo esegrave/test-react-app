@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.3b755400.chunk.js",
-    "main.js.map": "/static/js/main.3b755400.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.30aace72.js",
-    "runtime-main.js.map": "/static/js/runtime-main.30aace72.js.map",
-    "static/js/2.e5f0e2ab.chunk.js": "/static/js/2.e5f0e2ab.chunk.js",
-    "static/js/2.e5f0e2ab.chunk.js.map": "/static/js/2.e5f0e2ab.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.59b7a33cdfb6c7c6a7c21e7cbaa10d10.js": "/precache-manifest.59b7a33cdfb6c7c6a7c21e7cbaa10d10.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.e5f0e2ab.chunk.js.LICENSE.txt": "/static/js/2.e5f0e2ab.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/pt/github-sync-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/pt/github-sync-test/static/js/main.c6b0559d.chunk.js",
+    "main.js.map": "/pt/github-sync-test/static/js/main.c6b0559d.chunk.js.map",
+    "runtime-main.js": "/pt/github-sync-test/static/js/runtime-main.46fbeb80.js",
+    "runtime-main.js.map": "/pt/github-sync-test/static/js/runtime-main.46fbeb80.js.map",
+    "static/js/2.e5f0e2ab.chunk.js": "/pt/github-sync-test/static/js/2.e5f0e2ab.chunk.js",
+    "static/js/2.e5f0e2ab.chunk.js.map": "/pt/github-sync-test/static/js/2.e5f0e2ab.chunk.js.map",
+    "index.html": "/pt/github-sync-test/index.html",
+    "precache-manifest.5ef567696a0a8a13d216105b48b61034.js": "/pt/github-sync-test/precache-manifest.5ef567696a0a8a13d216105b48b61034.js",
+    "service-worker.js": "/pt/github-sync-test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/pt/github-sync-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e5f0e2ab.chunk.js.LICENSE.txt": "/pt/github-sync-test/static/js/2.e5f0e2ab.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/pt/github-sync-test/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.30aace72.js",
+    "static/js/runtime-main.46fbeb80.js",
     "static/js/2.e5f0e2ab.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.3b755400.chunk.js"
+    "static/js/main.c6b0559d.chunk.js"
   ]
 }
